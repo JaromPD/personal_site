@@ -1,9 +1,39 @@
-<mxfile host="Electron" modified="2023-08-07T22:02:05.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="-GN-3vsZA73MRpydklaz" version="21.3.7" type="device">
+<mxfile host="Electron" modified="2023-08-07T22:09:44.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="I9nwnXyv60U-y4ANdzyg" version="21.3.7" type="device">
   <diagram name="Page-1" id="xaQYUtDdNsNPs-NszkSo">
     <mxGraphModel dx="1081" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#636363;fillStyle=zigzag-line;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry width="900" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Jarom Diaz&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="133.5" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Software Engineer&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="176.5" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillStyle=zigzag-line;fillColor=#FFFFFF;strokeWidth=1;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-5" value="About Me" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-6" value="Projects" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-7" value="Resume" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-8" value="Contact" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-9" value="LI" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jycv-WQaqV2yXLpPrnc4-10" value="GH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
